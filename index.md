@@ -45,3 +45,30 @@ William C. Ratcliff and Peter J. Yunker
 - [Collective gradient sensing in fish schools](https://meetings.aps.org/Meeting/MAR18/Session/S51.8)\
 ***Aawaz Pokhrel***, Julia Giannini, James Puckett\
   American Physical Society (2018)
+
+
+## Skills
+* Languages
+  * English (fluent)
+  * Nepalese (native)
+  * Hindi (conversational)
+* Programming Languages
+  * Python (proficient)
+  * Mathematica
+  * MATLAB
+  * C++ (novice)
+  * LaTeX
+* Frameworks
+  * Pandas
+  * NumPy
+  * Seaborn
+  * Matplotlib
+* Platforms
+  * Linux
+  * Windows
+
+
+
+
+
+  
