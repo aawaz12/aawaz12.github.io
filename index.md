@@ -1,6 +1,6 @@
 # Aawaz Pokhrel
 
-<img src="/aawaz.JPG" width="188" height="250">. 
+<img src="/aawaz.jpg" width="188" height="250">. 
 CV | [Google Scholar](https://scholar.google.no/citations?user=NcEa3P6UKuAC&hl=en) | [LinkedIn](https://www.linkedin.com/in/aawaz-pokhrel-a44b1676/) | [Github](https://github.com/aawaz12) | Email: 3135aawaz@gmail.com
     
 I am a Ph.D. researcher in Biophysics at Georgia Tech, specializing
