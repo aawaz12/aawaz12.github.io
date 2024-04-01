@@ -11,7 +11,13 @@ in modeling and simulations. Beyond my research, I am deeply
 committed to mentorship, having supervised and guided
 undergraduate students in their research projects 
 
-
+## Education
+* Ph.D in Physics, Georgia Institute of Technology, 2019 - present
+  * Advisor: Peter J. Yunker
+* M.S. in Physics, Georgia Institute of Technology, 2019 - present
+  * (GPA: 4.00)
+* B.S. in Physics, Gettysburg College, 2019
+  * Advisor: James G. Puckett
 ## Publications
 
 - [The biophysical basis of bacterial colony growth ](https://www.biorxiv.org/content/10.1101/2023.11.17.567592v1.abstract)\
