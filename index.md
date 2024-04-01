@@ -18,6 +18,7 @@ undergraduate students in their research projects
   * (GPA: 4.00)
 * B.S. in Physics, Gettysburg College, 2019
   * Advisor: James G. Puckett
+
 ## Publications
 
 - [The biophysical basis of bacterial colony growth ](https://www.biorxiv.org/content/10.1101/2023.11.17.567592v1.abstract)\
